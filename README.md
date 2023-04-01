@@ -5,3 +5,4 @@ TASK:1
 
 TASK:2
 Titanic Classification Predication 📈
+Predicting the Survival of Titanic Passengers using the dataset of CSV File
